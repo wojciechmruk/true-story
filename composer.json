@@ -1,0 +1,19 @@
+{
+    "name": "wojciechmruk/true-story",
+    "description": "Lorem ipsum true story generator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wojciech Mruk",
+            "email": "vojciechmruk@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "WojciechMruk\\TrueStory\\" : "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
